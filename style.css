@@ -1,0 +1,19 @@
+#inputCalculadora{
+  font-size: 70px;
+  width: 100%;
+  text-align: right;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.areaCalculadora{
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.row div{
+  padding: 0;
+}
+.row div button{
+  width: 100%;
+}
